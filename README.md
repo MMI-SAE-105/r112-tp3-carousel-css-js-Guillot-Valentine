@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Guillot
+- prénom : Valentine
+- URL Netlify :https://thriving-fairy-9739e7.netlify.app/
 
 # Travail
 
